@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+  <test name="Test">
+    <packages>
+      <package name="com.code.testng" />
+    </packages>
+<!--    <classes>-->
+<!--      <class name="com.code.testng.Test1"/>-->
+<!--      <class name="com.code.testng.Test2"/>-->
+<!--    </classes>-->
+  </test> <!-- Selenium_Framework -->
+</suite> <!-- Default Suite -->

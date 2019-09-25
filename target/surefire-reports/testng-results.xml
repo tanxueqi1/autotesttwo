@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="55" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+    <groups>
+      <group name="reg">
+        <method signature="Test4.f1()[pri:0, instance:com.code.testng.Test4@13a57a3b]" name="f1" class="com.code.testng.Test4"/>
+        <method signature="Test4.f3()[pri:0, instance:com.code.testng.Test4@13a57a3b]" name="f3" class="com.code.testng.Test4"/>
+      </group> <!-- reg -->
+      <group name="login">
+        <method signature="Test4.f1()[pri:0, instance:com.code.testng.Test4@13a57a3b]" name="f1" class="com.code.testng.Test4"/>
+        <method signature="Test4.f2()[pri:0, instance:com.code.testng.Test4@13a57a3b]" name="f2" class="com.code.testng.Test4"/>
+      </group> <!-- login -->
+    </groups>
+    <test name="Command line test" duration-ms="55" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+      <class name="com.code.testng.Test2">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.code.testng.Test2@153f5a29]" name="beforeSuite" is-config="true" duration-ms="15" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.code.testng.Test2@153f5a29]" name="beforeTest" is-config="true" duration-ms="0" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.code.testng.Test2@153f5a29]" name="beforeClass" is-config="true" duration-ms="2" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.code.testng.Test2@153f5a29]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f1()[pri:0, instance:com.code.testng.Test2@153f5a29]" name="f1" duration-ms="0" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.code.testng.Test2@153f5a29]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.code.testng.Test2@153f5a29]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f2()[pri:0, instance:com.code.testng.Test2@153f5a29]" name="f2" duration-ms="0" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.code.testng.Test2@153f5a29]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.code.testng.Test2@153f5a29]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.code.testng.Test2@153f5a29]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.code.testng.Test2@153f5a29]" name="afterSuite" is-config="true" duration-ms="0" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.code.testng.Test2 -->
+      <class name="com.code.testng.Test1">
+        <test-method status="PASS" signature="g1()[pri:0, instance:com.code.testng.Test1@7f560810]" name="g1" duration-ms="2" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g1 -->
+        <test-method status="PASS" signature="f2()[pri:0, instance:com.code.testng.Test1@7f560810]" name="f2" duration-ms="1" started-at="2019-08-26T14:13:55Z" depends-on-methods="com.code.testng.Test1.g1" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+        <test-method status="PASS" signature="f1()[pri:0, instance:com.code.testng.Test1@7f560810]" name="f1" duration-ms="0" started-at="2019-08-26T14:13:55Z" depends-on-methods="com.code.testng.Test1.g1" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+      </class> <!-- com.code.testng.Test1 -->
+      <class name="com.code.testng.Test4">
+        <test-method status="PASS" signature="f1()[pri:0, instance:com.code.testng.Test4@13a57a3b]" name="f1" duration-ms="0" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method status="PASS" signature="f2()[pri:0, instance:com.code.testng.Test4@13a57a3b]" name="f2" duration-ms="1" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+        <test-method status="PASS" signature="f3()[pri:0, instance:com.code.testng.Test4@13a57a3b]" name="f3" duration-ms="0" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f3 -->
+        <test-method status="PASS" signature="f4()[pri:0, instance:com.code.testng.Test4@13a57a3b]" name="f4" duration-ms="0" depends-on-groups="reg" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f4 -->
+      </class> <!-- com.code.testng.Test4 -->
+      <class name="com.code.testng.Test3">
+        <test-method status="PASS" signature="f1()[pri:1, instance:com.code.testng.Test3@69d9c55]" name="f1" duration-ms="1" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method status="PASS" signature="f3()[pri:2, instance:com.code.testng.Test3@69d9c55]" name="f3" duration-ms="1" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f3 -->
+        <test-method status="PASS" signature="f2()[pri:3, instance:com.code.testng.Test3@69d9c55]" name="f2" duration-ms="0" started-at="2019-08-26T14:13:55Z" finished-at="2019-08-26T14:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+      </class> <!-- com.code.testng.Test3 -->
+      <class name="com.code.testng.Test5">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.code.testng.Test5@7ca48474]" name="login" duration-ms="0" started-at="2019-08-26T14:13:55Z" data-provider="userpass" finished-at="2019-08-26T14:13:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testfan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.code.testng.Test5@7ca48474]" name="login" duration-ms="0" started-at="2019-08-26T14:13:55Z" data-provider="userpass" finished-at="2019-08-26T14:13:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testng]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[111111]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.code.testng.Test5 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
